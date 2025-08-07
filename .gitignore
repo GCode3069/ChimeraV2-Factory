@@ -1,0 +1,28 @@
+# Temporary and output files
+Temp/
+Output/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Environment and credentials
+.env
+*.key
+*.token
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
