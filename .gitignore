@@ -1,0 +1,114 @@
+# ChimeraV2-Factory Security & Operations .gitignore
+# Phoenix Protocol - Security Asset Protection
+
+# Sensitive Authentication Assets
+*.key
+*.pem
+*.p12
+*.pfx
+api_keys/
+credentials/
+secrets/
+tokens/
+auth_vault/
+
+# API Keys and Configuration
+.env
+.env.local
+.env.production
+config.json
+credentials.json
+api_config.ps1
+
+# PowerShell Sensitive Data
+*credential*.ps1
+*password*.ps1
+*secret*.ps1
+
+# Video Production Assets (Large Files)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+
+# Audio Production Assets
+*.wav
+*.mp3
+*.flac
+*.aac
+*.m4a
+*.ogg
+
+# Image Assets (Large Files)
+*.psd
+*.xcf
+*.tiff
+*.bmp
+raw_images/
+unprocessed/
+
+# Build and Deployment Artifacts
+build/
+dist/
+output/
+temp/
+tmp/
+cache/
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-*
+.vs/
+
+# Package Manager Files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python Virtual Environments
+venv/
+env/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Backup Files
+*.bak
+*.backup
+*~
+*.orig
+
+# Oracle Production Sensitive Data
+oracle/voice_models/
+oracle/api_responses/
+oracle/raw_footage/
+oracle/unprocessed_audio/
+
+# Viral Content Production
+viral-shorts/raw_content/
+viral-shorts/api_responses/
+viral-shorts/unprocessed/
+
+# Automation Logs and Data
+automation/logs/
+automation/temp/
+automation/upload_cache/
+
+# Documentation Build Files
+docs/build/
+docs/_site/
