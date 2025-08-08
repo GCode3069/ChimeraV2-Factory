@@ -1,0 +1,278 @@
+{
+  "video_info": {
+    "title": "Memory Merchants",
+    "duration_minutes": 7,
+    "total_seconds": 420,
+    "theme": "corporate_conspiracy",
+    "narrative_type": "standard",
+    "scene_count": 14,
+    "created_at": "2025-08-08T23:50:02.690130"
+  },
+  "production_specs": {
+    "target_resolution": "1920x1080",
+    "fps": 30,
+    "audio_sample_rate": 44100,
+    "segment_duration": 30,
+    "segments_needed": 14
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "introduction",
+      "visual_style": "corporate_sterile",
+      "audio_elements": [
+        "ventilation_system",
+        "elevator_ding"
+      ],
+      "text_overlay": "Data processing...",
+      "transition_type": "dissolve",
+      "horror_intensity": 2
+    },
+    {
+      "scene_id": 2,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "setup",
+      "visual_style": "corporate_sterile",
+      "audio_elements": [
+        "electrical_interference",
+        "phone_ring"
+      ],
+      "text_overlay": "Analyzing patterns...",
+      "transition_type": "cut",
+      "horror_intensity": 3
+    },
+    {
+      "scene_id": 3,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "first_hint",
+      "visual_style": "corporate_sterile",
+      "audio_elements": [
+        "ambient_whispers",
+        "elevator_ding"
+      ],
+      "text_overlay": "Anomaly detected...",
+      "transition_type": "cut",
+      "horror_intensity": 3
+    },
+    {
+      "scene_id": 4,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "growing_unease",
+      "visual_style": "digital_corruption",
+      "audio_elements": [
+        "ventilation_system",
+        "heartbeat",
+        "elevator_ding"
+      ],
+      "text_overlay": "System alert...",
+      "transition_type": "glitch_mild",
+      "horror_intensity": 4
+    },
+    {
+      "scene_id": 5,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "call_to_action",
+      "visual_style": "digital_corruption",
+      "audio_elements": [
+        "electrical_interference",
+        "heartbeat",
+        "phone_ring"
+      ],
+      "text_overlay": "Investigation required...",
+      "transition_type": "static_burst",
+      "horror_intensity": 5
+    },
+    {
+      "scene_id": 6,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "investigation",
+      "visual_style": "digital_corruption",
+      "audio_elements": [
+        "ventilation_system",
+        "door_creak",
+        "phone_ring"
+      ],
+      "text_overlay": "Unauthorized access...",
+      "transition_type": "static_burst",
+      "horror_intensity": 5
+    },
+    {
+      "scene_id": 7,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "discovery",
+      "visual_style": "digital_corruption",
+      "audio_elements": [
+        "electrical_interference",
+        "breathing",
+        "fluorescent_buzz"
+      ],
+      "text_overlay": "Memory fragments found...",
+      "transition_type": "digital_corruption",
+      "horror_intensity": 6
+    },
+    {
+      "scene_id": 8,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "complication",
+      "visual_style": "atmospheric_horror",
+      "audio_elements": [
+        "server_hum",
+        "door_creak",
+        "static_burst",
+        "elevator_ding"
+      ],
+      "text_overlay": "Corporate directive 7-Alpha...",
+      "transition_type": "screen_tear",
+      "horror_intensity": 7
+    },
+    {
+      "scene_id": 9,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "revelation",
+      "visual_style": "atmospheric_horror",
+      "audio_elements": [
+        "server_hum",
+        "door_creak",
+        "digital_scream",
+        "elevator_ding"
+      ],
+      "text_overlay": "Subject classification: THREAT",
+      "transition_type": "reality_break",
+      "horror_intensity": 8
+    },
+    {
+      "scene_id": 10,
+      "duration": 28.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "escalation",
+      "visual_style": "atmospheric_horror",
+      "audio_elements": [
+        "server_hum",
+        "door_creak",
+        "corrupted_voice",
+        "keyboard_typing"
+      ],
+      "text_overlay": "Initiating containment...",
+      "transition_type": "reality_break",
+      "horror_intensity": 8
+    },
+    {
+      "scene_id": 11,
+      "duration": 35.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "climax",
+      "visual_style": "atmospheric_horror",
+      "audio_elements": [
+        "ventilation_system",
+        "door_creak",
+        "corrupted_voice",
+        "elevator_ding"
+      ],
+      "text_overlay": "SYSTEM BREACH",
+      "transition_type": "void_transition",
+      "horror_intensity": 9
+    },
+    {
+      "scene_id": 12,
+      "duration": 35.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "confrontation",
+      "visual_style": "atmospheric_horror",
+      "audio_elements": [
+        "electrical_interference",
+        "door_creak",
+        "corrupted_voice",
+        "elevator_ding"
+      ],
+      "text_overlay": "All units respond...",
+      "transition_type": "nightmare_shift",
+      "horror_intensity": 10
+    },
+    {
+      "scene_id": 13,
+      "duration": 35.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "resolution",
+      "visual_style": "atmospheric_horror",
+      "audio_elements": [
+        "ventilation_system",
+        "heartbeat",
+        "digital_scream",
+        "fluorescent_buzz"
+      ],
+      "text_overlay": "Echo-Seven compromised...",
+      "transition_type": "void_transition",
+      "horror_intensity": 9
+    },
+    {
+      "scene_id": 14,
+      "duration": 35.0,
+      "theme": "corporate_conspiracy",
+      "narrative_beat": "aftermath",
+      "visual_style": "digital_corruption",
+      "audio_elements": [
+        "ambient_whispers",
+        "breathing",
+        "keyboard_typing"
+      ],
+      "text_overlay": "Termination protocol active",
+      "transition_type": "digital_corruption",
+      "horror_intensity": 6
+    }
+  ],
+  "global_audio": {
+    "background_track": "corporate_conspiracy_ambient.wav",
+    "volume_curve": "exponential_rise",
+    "fade_in_duration": 3.0,
+    "fade_out_duration": 5.0,
+    "peak_intensity_at": "5.25m",
+    "audio_effects": [
+      "reverb",
+      "echo",
+      "distortion"
+    ]
+  },
+  "effects_pipeline": [
+    {
+      "effect": "color_grading",
+      "params": {
+        "darkness": 0.7,
+        "contrast": 1.3
+      }
+    },
+    {
+      "effect": "film_grain",
+      "params": {
+        "intensity": 0.3
+      }
+    },
+    {
+      "effect": "vignette",
+      "params": {
+        "strength": 0.6
+      }
+    },
+    {
+      "effect": "glitch_overlay",
+      "params": {
+        "frequency": "intensity_based"
+      }
+    },
+    {
+      "effect": "corporate_overlay",
+      "params": {
+        "opacity": 0.2
+      }
+    }
+  ]
+}
